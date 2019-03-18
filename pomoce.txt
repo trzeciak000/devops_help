@@ -1,0 +1,26 @@
+linki:
+
+https://www.katacoda.com/ - kursy DevOps itp.
+https://docs.openstack.org/infra/jenkins-job-builder - jenkins job builder
+https://confluence.oberthur.com/pages/viewpage.action?spaceKey=SIL&title=Configuration+maven+with+Idemia+artifactory - konfiguracja maven
+https://mywiki.wooledge.org/BashPitfalls - pomoc/przyklady bash
+https://bitbucket.otlabs.fr/projects/DOI - link do repo szkoleniowego
+https://i.stack.imgur.com/Fgn42.png - lifecycle w maven
+https://www.katacoda.com/courses/docker - kurs dockera
+https://learngitbranching.js.org/ - kurs gita
+https://czterytygodnie.pl/wirtualizacja-02-vagrant-instalacja-konfiguracja-srodowiska/ - vagrant konfiguracja, instalacja etc.
+https://docs.docker.com/develop/develop-images/multistage-build/ - docker multi staging i dokumentacja dockerowa
+https://devhints.io/docker - docker polecenia
+https://cdn.chrisshort.net/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf - pomoc do kubernetów
+https://bitbucket.otlabs.fr/projects/STACK/repos/salt/browse - saltstack dokumentacja
+https://linuxpolska.pl/poznajemy-docker-swarm/ - docker swarm
+https://blog.gutek.pl/2018/02/26/kubernetes-slownik-pojec/ - kubernety podstawy
+https://pl.wikipedia.org/wiki/Cron - cron
+
+katalogi:
+
+~/.bash_history - historia polecen, mozna wygrepować
+
+polecenia:
+
+
